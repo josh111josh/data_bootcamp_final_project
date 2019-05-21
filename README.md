@@ -13,3 +13,8 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 
 This project examines the change in GDP on the European continent from 1995-2015. The purpose of this project was too see how GDP and GDP per capita were affected by several large economic and financial events that occured in the time period, such as the introduction of the Euro in 1999, the recession from 2007-2009, and the subsequent European Soverign Debt Crisis in the early 2010s. To show how the GDP changed on the continent, I created a heat map and barcharts using data from the World Economic Outlook Database. I then combined these two types of charts into one chart and then created a movie (GIF) that shows how GDP changed from 1995-2015. You can find the movies in the accompnied powerpoint presentation. I also decided to see how GDP and GDP per capita looks when we take the log of it over the time frame. Those movies are also included in the powerpoint presentation. 
+
+
+**Link to GitHub**
+
+https://github.com/josh111josh/data_bootcamp_final_project
