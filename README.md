@@ -20,4 +20,4 @@ This project examines the change in GDP on the European continent from 1995-2015
 https://github.com/josh111josh/data_bootcamp_final_project
 
 
-** All Credit to external resources is given within the notebook**
+**All Credit to external resources is given within the notebook**
